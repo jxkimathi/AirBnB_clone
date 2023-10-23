@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .places{
     text-align: center;
 }
@@ -17,3 +18,24 @@ article h2{
     font-size: 30px;
     text-align: center;
 }
+=======
+.places {
+  text-align: center;
+}
+.places h1 {
+  font-size: 30px;
+  text-align: left;
+}
+article {
+  width: 390px;
+  border: 1px solid #FF5A5F;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+}
+article h2 {
+  font-size: 30px;
+  text-align: center;
+}
+>>>>>>> d2e6e4ff13e69b914423d4f31e6db8eab1fa2f20

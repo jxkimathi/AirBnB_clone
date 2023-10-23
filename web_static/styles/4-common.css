@@ -1,11 +1,25 @@
+<<<<<<< HEAD
 body{
+=======
+body {
+>>>>>>> d2e6e4ff13e69b914423d4f31e6db8eab1fa2f20
     margin: 0;
     padding: 0;
     color: #484848;
     font-size: 14px;
+<<<<<<< HEAD
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 div.container{
     max-width: 1000px;
     margin: 30px auto;
 }
+=======
+    font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+}
+div.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    /* text-align: center; */
+}
+>>>>>>> d2e6e4ff13e69b914423d4f31e6db8eab1fa2f20
